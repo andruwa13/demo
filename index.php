@@ -11,8 +11,6 @@ sdc
 sd
 
 fsd
-fsd
-f
 sd
 fs
 df
